@@ -1,3 +1,35 @@
 body{
-    background: #BDBDBD;
+    background: #ffffff;
+
+}
+
+.text2 {
+    width: 70%;
+    margin:  0px 0px;
+    padding: 0 50px;
+}
+.text2 h3 {
+    font-size: 40px;
+}
+.text2 p {
+    font-size: 18px;
+    margin-right: 100px;
+}
+.portfolio, .contact {
+    margin-top: 50px;
+}
+.portfolio h3 {
+
+    font-size: 40px;
+}
+.p-portfolio {
+    font-size: 18px;
+    margin-right: 100px;
+}
+.contact h3 {
+    font-size: 40px;
+}
+.p-contact {
+    font-size: 18px;
+    margin-right: 100px;
 }
