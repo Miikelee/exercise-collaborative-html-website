@@ -6,7 +6,11 @@ body{
 .text2 {
     width: 70%;
     margin:  0px 0px;
-    padding: 0 50px;
+    padding: 200px 50px
+   ;
+}
+.image2 {
+     padding: 200px 50px
 }
 .text2 h3 {
     font-size: 40px;
@@ -32,8 +36,6 @@ body{
 .p-contact {
     font-size: 18px;
     margin-right: 100px;
-
-    background: #BDBDBD;
 }
 
 /* #css tagline */
@@ -69,6 +71,7 @@ body{
     height:370px;
     background:white;
     display:flex; 
+    padding-top: 100px;
 }
 .imagen {
     width: 20%;
